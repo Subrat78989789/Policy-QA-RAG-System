@@ -1,0 +1,14 @@
+Life Insurance Policy
+
+Section 1: Death Benefit
+The policy provides a death benefit to the nominated beneficiary
+if the insured person dies during the active policy term,
+subject to the policy terms.
+
+Section 2: Premium Payments
+The policyholder must pay premiums according to the selected
+payment schedule to keep the policy active.
+
+Section 3: Exclusions
+The policy does not cover claims arising from exclusions
+specified in the policy contract.

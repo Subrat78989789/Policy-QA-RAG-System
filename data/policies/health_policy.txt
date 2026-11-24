@@ -1,0 +1,13 @@
+Health Insurance Policy
+
+Section 1: Waiting Period
+The policy has a 30-day initial waiting period for illnesses.
+Accidental injuries are covered from the policy start date.
+
+Section 2: Hospitalization
+The policy covers eligible hospitalization expenses when
+the insured person is admitted for at least 24 consecutive hours.
+
+Section 3: Exclusions
+Cosmetic procedures are not covered unless medically necessary
+due to an accident or illness.
